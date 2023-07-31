@@ -1,5 +1,5 @@
 # MultiChatServer
-Small server that accept Multi Clients
+Small server that accept Multi Clients.
 
 It is necessary to run the server and the client separately.
 
