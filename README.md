@@ -5,4 +5,4 @@ It is necessary to run the server and the client separately.
 
 ## Technologies
 
-Java, Ant, Java, Socket .
+Java, Ant, Java, Socket.
